@@ -49,6 +49,11 @@ view: sales {
       prod_id,
       prod_name,
       Sales
+
+
+
+
+      
     ]
   }
 }
